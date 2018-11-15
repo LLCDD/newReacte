@@ -1,0 +1,134 @@
+.ant-carousel .slick-slide {
+    text-align: center;
+    /* height: 500px; */
+    /* line-height: 280px; */
+    background: #364d79;
+    border-radius: 30px;
+    overflow: hidden;
+  }
+  
+  .ant-carousel .slick-slide h3 {
+    color: #fff;
+  }
+  .ant-carousel .slick-slide img{
+      display: inherit !important;
+  }
+  .limg6{
+     width: 100%;
+     height: 288px;
+     /* display: none; */
+  }
+  .ldiv7{
+    height: 140px;
+    
+   padding: 20px;
+   border-bottom: 1px solid #ccc;
+  }
+  .limg7{
+    height: 30px;
+    width: 30px;
+    display: inline-block;
+  }
+  .a{
+    display: inline-block;
+    background: #f7f7f7;
+    height: 32px;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    float: left;
+    margin-left: 25px;
+    margin-bottom: 20px;
+  }
+  .lspan4{
+    padding:0 10px;
+  }
+  .limg8{
+    height: 20px;
+  }
+  .ldiv10{
+    width: 100%;
+    height:300px;
+  }
+  .lli1{
+    background: yellow;
+    height: 20%;
+    margin-top: 6px;
+  }
+  .lli1>img{
+    float: left;
+    display: inline-block;
+    width: 20%;
+    height: 80%;
+    border-radius:50%; 
+  } 
+  .lli1>h3{
+    font-size: 16px;
+    float: left;
+    margin-left: 6px;
+    width: 60%;
+  }
+
+  .lli1>h3>span{
+    font-size: 16px;
+    float: right;
+   
+    color: grey;
+  }
+  .lli1>p{
+    font-size: 12px;
+    float: left;
+    margin-left: 6px;
+  }
+ .ldiv11{
+   width: 100%;
+   min-height:1000px ;
+ }  
+ .ldiv11>div>{
+    width: 100%;
+    height:180px;
+    border-bottom: 1px solid #ccc;
+ }
+ .ldiv12{
+   height: 160px;
+   border-bottom:1px solid #ccc; 
+ }
+ .ldiv11>div>.ldiv12>.Ll>h2{
+   float: left;
+   width: 70%;
+  padding-top: 10px;
+ } 
+ .ldiv11>div>.ldiv12>.Ll>h2:hover{
+  float: left;
+  width: 70%;
+padding-top: 10px;
+
+} 
+ .ldiv11>div>.ldiv12>.Ll>p{
+  float: left;
+  width: 70%;
+  color:#ccc ;
+  font-size: 14px;
+} 
+.ldiv11>div>.ldiv12>.Ll>img{
+  float: right;
+ display: inline-block;
+ width: 25%;
+height:100px;
+margin-top: 20px;
+} 
+.la:hover{
+  text-decoration: underline
+  ;color:#000
+  ;
+}
+.touxiang{
+  float: right;
+  height: 20px;
+  width: 20px;
+  padding: 0;
+  display: inline-block;
+  margin-top: 20px;
+  background: url(../img/140619114S5-1.jpg) no-repeat top/cover !important;
+  background-size: cover; 
+}
+

@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+@font-face {
+    font-family:zzllc ;
+    src: url(../fonts/iconfont.ttf);
+}
+li{
+    list-style: none
+}
+
+.lc{
+    height: 70px;
+    width: 100%;
+    border-bottom: 1px solid #ccc;
+}
+.lc1{
+    height: 100%;
+    width: 15%;
+    text-align: center;
+    background: pink;
+    font-weight: 300;
+    color: #e36e67;
+    line-height: 70px;
+    cursor: pointer;
+    float: left;
+}
+.lc2{
+    float: left;
+    height: 100%;
+    width: 8%;
+    
+    line-height: 70px;
+    text-align: center;
+   font-family: zzllc;
+
+}
+.lc2:hover {
+    color: #e36e67;
+    cursor: pointer;
+}
+/* 写文章 */
+.l1{
+    float: right;
+    font-weight: 300;
+    margin-top: 18px;
+    margin-right: 2%;
+    height: 36px;
+    background: #ef6c5a;
+    width: 100px;
+    text-align: center;
+    line-height:36px;
+    border-radius: 10px; 
+    cursor: pointer;
+    opacity: .8;
+}
+.liv{
+    height: 70px;
+    width: 82%;
+
+}
+.liv1{
+    width: 200px;
+    background: #ccc;
+    float: left;
+    margin-top: 12px;
+    margin-left: 50px;
+    height: 35px;
+    border-radius: 15px
+}
+.lnput{
+    height: 35px;
+    border: 0;
+    border-radius: 15px;
+    background: #ccc;
+}
+.liv1>span{
+    font-family: zzllc;
+    border-radius:50%;
+    display: inline-block;
+    height: 30px;
+    width: 30px;
+    font-size: 25px;
+    float: right;
+}
+.l2{
+    float: right;
+    line-height: 70px;
+    margin-right: 8px;
+    margin-top: 20px;
+    font-weight: 300; 
+    background: red;
+    cursor: pointer;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%
+}
+.active{
+    color: #e36e67;
+}
