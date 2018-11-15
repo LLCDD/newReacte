@@ -1,0 +1,117 @@
+*{
+    margin:0;
+    padding:0;
+}
+html{
+    background-color: #f1f1f1;
+}
+h1{
+    font-size: 44px;
+    font-family: sans-serif;
+    position: relative;
+    top: 58px;
+    left: 50px;
+    color: #ea6f5a;
+    cursor: pointer;
+    width: 100px;
+}
+.dl{
+    width: 400px;
+    height: 500px;
+    background-color: #ffffff;
+    margin: 100px auto;
+}
+.dl .p3{
+    font-size: 20px;
+    position: relative;
+    top: 60px;
+    left: 140px;
+    cursor: pointer;
+    border-bottom: 2px solid #ea6f5a;
+    color: #EA6F5A;
+    font-weight: 600;
+}
+.dl .p4{
+    font-size: 20px;
+    position: relative;
+    top: 60px;
+    left: 190px;
+    cursor: pointer;
+    color:#969696;
+}
+.dl .uw{
+    position: relative;
+    top: 120px;
+    left: -43px;
+    width: 300px;
+    height: 50px;
+    border-radius: 10px;
+}
+.dl .tw{
+    position: relative;
+    top: 120px;
+    left: -3px;
+    width: 300px;
+    height: 50px;
+    border-radius: 10px;
+}
+.dl .pw{
+    position: relative;
+    top: 120px;
+    left: -3px;
+    width: 300px;
+    height: 50px;
+    border-radius: 10px;
+}
+.dl button{
+    position: relative;
+    top: 140px;
+    left: -4px;
+    width: 300px;
+    height: 44px;
+    border-radius: 30px;
+    background-color: #42c02e;
+    font-size: 18px;
+    color: white;
+}
+.dl .bs{
+    text-align: center;
+    margin-top: 145px;
+    font-size: 12px;
+    color: #969696;
+    line-height: 26px;
+}
+.dl .xy a{
+    text-decoration: none;
+    color: #3194d0;
+    margin-left: -80px; 
+    line-height: 20px;
+}
+.dl .he{
+    position: relative;
+    top: -20px;
+    left: -3px;
+}
+.dl .zc a{
+    text-decoration: none;
+    color: #3194d0;
+    position: relative;
+    left: 34px;
+    top: -40px;
+}
+.dl .sj{
+    text-align: center;
+    margin-top: -20px;
+    font-size: 12px;
+    color: #969699;
+}
+.dl .tb7{
+    position: relative;
+    top: 10px;
+    left: -20px;
+}
+.dl .tb8{
+    position: relative;
+    top: 10px;
+    left: 20px;
+}
