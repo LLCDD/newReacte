@@ -1,0 +1,115 @@
+
+/* 右边侧边的样式 */
+/* .ldiv3{ */
+    /* float: right;
+    width: 30%;
+    background: yellow;
+    position: relative;
+} */
+
+.lli{
+    width: 90%;
+    margin-left: 10%;
+    height: 38px;
+    background: #c1e5df;
+    margin-bottom: 6px;
+    line-height: 38px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.lli1{
+    background: #ffbb50;
+}
+.lli2{
+    background: #f5e1bd;
+}
+.lli3{
+    background: #b7d7ed;
+}
+.ldiv4{
+    height: 60px;
+    width: 90%;
+    border: 1px solid #ccc;
+    box-shadow: 2px 2px 10px #ccc;
+    float: right;
+    margin-top: 8px;
+    border-radius: 10px;
+    cursor: pointer;
+    position: relative;
+}
+.limg{
+    float: left;
+    height: 80%;
+    margin-top: 3%;
+    margin-left: 3%
+}
+.lspan1{
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px;
+    font-size: 14px;
+}
+.lspan2{
+    font-size: 12px;
+    float: left;
+    margin-left: 10px;
+    color: #ccc;
+}
+.ldiv5{
+    height: 130px;
+    width: 130px;
+    background: #fff;
+    position: absolute;
+    top: 175px;
+    left: 71%;
+    border-radius:10px; 
+    display: none;
+    box-shadow: 3px 3px 10px #ccc;
+}
+.ldiv6{
+    height: 0;
+    width: 0;
+    border-width: 10px 10px 0;
+    border-style: solid;
+    border-color: #333 transparent transparent;
+    position: absolute;
+    bottom: -10px;
+    left: 44%;
+}
+.limg1{
+    height: 85%;
+    display: block;
+    margin: 0% auto;
+    margin-top: 7%;
+}
+.ldiv8{
+    width: 90%;
+    border-radius: 10px;
+    float: right;
+    overflow: hidden;
+    height: 127px;
+    margin-top: 10px;
+}
+.limg5{
+   width: 100%;
+    float: right;
+    height: 100%;
+    display: inline-block;
+    
+}
+.ldiv9{
+    min-height: 200px;
+    background: pink;
+    float: right;
+    width: 90%;
+    margin-top: 10px;
+}
+.cspan1{
+    float: left;
+}
+.cspan2{
+    float: right;
+}
+.ldiv3{
+    float: left !important;
+}

@@ -1,0 +1,31 @@
+.xq{
+	width: 60%;
+	min-height:1000px ;
+	margin: 0 auto;
+}
+.xq>img{
+	float: left;
+	display: inline-block;
+}
+.xq>h2{
+	float: left;
+	width: 86%;
+	height: 70px;
+	line-height: 70px;
+	padding-left:10px ;
+}
+.xq>h3{
+	float: left;
+	border-bottom: 1px solid #CCCCFF;
+	width: 100%;
+	padding: 10px ;
+}
+.xq>p{
+	float: left;
+	padding: 10px;
+}
+.xq>h2>span{
+	color: greenyellow;
+	font-size: 16px;
+	float: right;
+}
